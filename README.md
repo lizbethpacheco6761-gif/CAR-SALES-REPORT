@@ -3,6 +3,7 @@ I currently work on the accounting side of a dealership, one specific brand too.
 
 Here is the link of the dataset from Kaggle. 
 https://www.kaggle.com/datasets/missionjee/car-sales-report
+
 Created an introduction about the dataset.  
 Imported all the libraries.
 Imported the dataset & displayed the head.
